@@ -8,25 +8,18 @@
  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jae-won-choi-3744a71a2/)](https://www.linkedin.com/in/jae-won-choi-3744a71a2/)
   
   
-<img alt="Blogger" src="https://img.shields.io/badge/Blogger-0F9D58?style=for-the-badge&logo=blogger&logoColor=white&link=https://blog.naver.com/ch000523)]"/>
-  
- <a href="https://blog.naver.com/ch000523"><img src="https://simpleicons.org/icons/blogger/green?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white&link=내링크"/></a>&nbsp
-  
-  
-  
-  
-  
+ [![Blogger Badge](https://img.shields.io/badge/Blogger-0F9D58?style=for-the-badge&logo=blogger&logoColor=white&link=https://blog.naver.com/ch000523/)](https://blog.naver.com/ch000523)
+
 <div align=center>
-	
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
-	
  </div>
 
 
-
-
-
-
+- 🔭 I’m currently working on AI Runner (Founder)
+- 🌱 I’m currently learning ML and C++
+- 👯 I’m looking to collaborate on AI and Finance
+- 💬 Ask me about stock market and AI
+- 📫 How to reach me: email chjwon10044@gmail.com
 
 
 
