@@ -5,18 +5,11 @@
 <img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
  
  
- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jae-won-choi-3744a71a2/)](https://www.linkedin.com/in/jae-won-choi-3744a71a2/)
-  
-   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chjwon10044@gmail.com)](mailto:chjwon10044@gmail.com)
-  
- [![Blogger Badge](https://img.shields.io/badge/Blogger-0F9D58?style=for-the-badge&logo=blogger&logoColor=white&link=https://blog.naver.com/ch000523/)](https://blog.naver.com/ch000523)
+ [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jae-won-choi-3744a71a2/)](https://www.linkedin.com/in/jae-won-choi-3744a71a2/) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chjwon10044@gmail.com)](mailto:chjwon10044@gmail.com) [![Blogger Badge](https://img.shields.io/badge/Blogger-0F9D58?style=for-the-badge&logo=blogger&logoColor=white&link=https://blog.naver.com/ch000523/)](https://blog.naver.com/ch000523)
 
-<div align=center>
- 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchjwon%2Fchjwon&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-  
- </div>
+
  
  [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=chjwon1004)](https://solved.ac/chjwon1004)
 
