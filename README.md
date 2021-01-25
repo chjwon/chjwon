@@ -7,6 +7,7 @@
  
  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jae-won-choi-3744a71a2/)](https://www.linkedin.com/in/jae-won-choi-3744a71a2/)
   
+   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chjwon10044@gmail.com)](mailto:chjwon10044@gmail.com)
   
  [![Blogger Badge](https://img.shields.io/badge/Blogger-0F9D58?style=for-the-badge&logo=blogger&logoColor=white&link=https://blog.naver.com/ch000523/)](https://blog.naver.com/ch000523)
 
@@ -16,6 +17,10 @@
 
   
  </div>
+ 
+ [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=chjwon1004)](https://solved.ac/chjwon1004)
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=chjwon&show_icons=true&theme=synthwave)](https://github.com/chjwon/github-readme-stats)
 
 
 - 🔭 I’m currently working on AI Runner (Founder)
