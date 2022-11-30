@@ -17,7 +17,8 @@
 
 
 - 🔭 I’m currently working on AI Runner (Founder)
-- 🔭 I used to work for Quantit(Intern)
+- 🔭 I had worked at Quantit(Intern)
+- 🔭 I had worked at Nasdaq(Intern)
 - 🌱 I’m currently learning ML and C++
 - 👯 I’m looking to collaborate on AI and Finance
 - 💬 Ask me about stock market and AI
