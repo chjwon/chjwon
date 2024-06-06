@@ -16,12 +16,12 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=chjwon&show_icons=true&theme=synthwave)](https://github.com/chjwon/github-readme-stats)
 
 
-- 🔭 I’m currently working on AI Runner (Founder)
-- 🔭 I had worked at Quantit(Intern)
-- 🔭 I had worked at Nasdaq(Intern)
-- 🌱 I’m currently learning ML and C++
-- 👯 I’m looking to collaborate on AI and Finance
-- 💬 Ask me about stock market and AI
+- 🔭 I’m currently working on Office of Naval Research as Research Intern
+- 🔭 I had worked at Nasdaq as Analytics Software Engineering Intern
+- 🔭 I had worked at Quantit as Backend Developer Intern
+- 🌱 I’m currently studying ML.
+- 👯 My research interest is Graph Neural Network, Natural Language Processing, Protein Structure Prediction
+- 💬 Ask me to discuss about topics of board Machine Learning
 - 📫 How to reach me: email chjwon10044@gmail.com
 
 
