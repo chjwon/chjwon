@@ -40,7 +40,14 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chjwon&layout=compact)
 
 
-- 🔭 I’m currently working on Jet Propulsion Laboratory as JPL Visiting Student Research Program(JVSRP)
+
+### Experiencee
+<img src="https://github.com/user-attachments/assets/82f1aac1-f872-427d-9e5d-d9526c980f04" alt="image" width="150"/> <!-- Quantit logo -->
+<img src="https://github.com/user-attachments/assets/3b05a777-064d-4c29-93f3-ff48f04d1abc" alt="image" width="150"/> <!-- Nasdaq logo -->
+<img src="https://github.com/user-attachments/assets/e8649ee3-b10f-49a9-8099-a7bd47f07117" alt="image" width="150"/> <!-- Office of Naval Research logo -->
+<img src="https://github.com/user-attachments/assets/b2b90188-d77b-48a8-8e3a-b20119d23e2a" alt="image" width="150"/> <!-- JPL logo -->
+
+- 🔭 I’m currently working on Jet Propulsion Laboratory as JPL Visiting Student Research Program(JVSRP) 
 - 🔭 I had worked at Office of Naval Research as Research Intern
 - 🔭 I had worked at Nasdaq as Analytics Software Engineering Intern
 - 🔭 I had worked at Quantit as Backend Developer Intern
