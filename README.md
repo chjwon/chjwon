@@ -15,6 +15,8 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=chjwon&show_icons=true&theme=synthwave)](https://github.com/chjwon/github-readme-stats)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chjwon&layout=compact)
+
 
 - 🔭 I’m currently working on Office of Naval Research as Research Intern
 - 🔭 I had worked at Nasdaq as Analytics Software Engineering Intern
