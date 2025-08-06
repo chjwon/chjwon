@@ -1,4 +1,4 @@
-## chjwon💻 UT Dallas Computer Science
+## chjwon💻 USC Computer Science
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchjwon%2Fchjwon&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ### Profile / Info about me
 
@@ -47,11 +47,11 @@
 <img src="https://github.com/user-attachments/assets/e8649ee3-b10f-49a9-8099-a7bd47f07117" alt="image" width="150"/> <!-- Office of Naval Research logo -->
 <img src="https://github.com/user-attachments/assets/b2b90188-d77b-48a8-8e3a-b20119d23e2a" alt="image" width="150"/> <!-- JPL logo -->
 
-- 🔭 I’m currently working on Jet Propulsion Laboratory as JPL Visiting Student Research Program(JVSRP) 
+- 🔭 I had worked at Jet Propulsion Laboratory as JPL Visiting Student Research Program(JVSRP) 
 - 🔭 I had worked at Office of Naval Research as Research Intern
 - 🔭 I had worked at Nasdaq as Analytics Software Engineering Intern
 - 🔭 I had worked at Quantit as Backend Developer Intern
-- 🌱 I’m currently studying ML, GNN.
+- 🌱 I’m currently in PhD CS.
 - 👯 My research interest is Graph Neural Network, Natural Language Processing, Protein Structure Prediction
 - 💬 Ask me to discuss about topics of board Machine Learning
 - 📫 How to reach me: email chjwon10044@gmail.com
